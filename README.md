@@ -64,8 +64,5 @@ The goal is to build a Power BI dashboard that answers the following business qu
 
 ---
 
-## 🚀 How to Use
+<img width="1374" height="748" alt="snapshort" src="https://github.com/user-attachments/assets/2c3d99ad-788d-4cc1-8ee2-5a0d8f759ce7" />
 
-1. Clone this repository or download the `.pbix` file:
-   ```bash
-   git clone https://github.com/your-username/sales-dashboard-powerbi.git
